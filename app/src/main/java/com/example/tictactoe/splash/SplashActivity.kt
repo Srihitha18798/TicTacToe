@@ -7,7 +7,6 @@ import android.os.Handler
 import android.view.WindowManager
 import com.example.tictactoe.MainActivity
 import com.example.tictactoe.databinding.ActivitySplashBinding
-import com.example.tictactoe.R
 
 class SplashActivity : AppCompatActivity() {
     private lateinit var binding: ActivitySplashBinding
