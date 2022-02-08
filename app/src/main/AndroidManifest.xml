@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TicTacToe">
-        <activity android:name=".BeforeStart"></activity>
         <activity
             android:name=".splash.SplashActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
