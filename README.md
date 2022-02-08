@@ -11,6 +11,11 @@ An android Tic-tac-toe, also known as noughts and crosses, or Xs and Os is a pap
     <img width="250px" src='https://github.com/Srihitha18798/TicTacToe/blob/master/app/src/main/assets/2.png' />
 </p>
 
+<p float="middle">
+    <img width="250px" src='https://github.com/Srihitha18798/TicTacToe/blob/master/app/src/main/assets/3.png' />
+    <img width="250px" src='https://github.com/Srihitha18798/TicTacToe/blob/master/app/src/main/assets/4.png' />
+
+</p>
 
 # License
 
